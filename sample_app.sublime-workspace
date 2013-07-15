@@ -1,0 +1,197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"have",
+				"have_selector"
+			],
+			[
+				"do",
+				"do"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/code/ruby/sample_app/spec/requests/static_pages_spec.rb",
+		"/C/code/ruby/sample_app/app/views/static_pages/home.html.erb",
+		"/C/code/ruby/sample_app/app/helpers/application_helper.rb",
+		"/C/code/ruby/sample_app/app/views/layouts/_header.html.erb",
+		"/C/code/ruby/sample_app/config/routes.rb",
+		"/C/code/ruby/sample_app/spec/helpers/application_helper_spec.rb",
+		"/C/code/ruby/sample_app/spec/support/utilities.rb",
+		"/C/code/ruby/sample_app/spec/requests/user_pages_spec.rb",
+		"/C/code/ruby/sample_app/README.rdoc",
+		"/C/code/ruby/sample_app/app/views/users/new.html.erb",
+		"/C/code/ruby/sample_app/app/views/layouts/_footer.html.erb",
+		"/C/code/ruby/sample_app/app/controllers/users_controller.rb",
+		"/C/code/ruby/sample_app/app/views/layouts/application.html.erb",
+		"/C/code/ruby/sample_app/config/application.rb",
+		"/C/code/ruby/sample_app/Gemfile",
+		"/C/code/ruby/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/C/code/ruby/sample_app/app/assets/stylesheets/application.css",
+		"/C/code/ruby/sample_app/app/views/layouts/_shim.html.erb",
+		"/C/code/ruby/sample_app/app/controllers/static_pages_controller.rb",
+		"/C/code/ruby/sample_app/public/hello.html",
+		"/C/code/ruby/first_ap/app/models/user.rb",
+		"/C/code/ruby/first_ap/app/models/micropost.rb",
+		"/C/code/ruby/first_ap/Gemfile"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "sample_app.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
